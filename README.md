@@ -1,4 +1,3 @@
-
 name: Build Cube Flip APK
 
 on:
